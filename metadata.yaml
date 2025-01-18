@@ -1,0 +1,30 @@
+_repo: Look-on-the-sunny-side-b-and-other-sketches_75017
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lamb, Ruth
+    aliases:
+    - Buck, Ruth
+    - Lamb, Mrs. (Ruth)
+    - Lamb, Ruth Buck
+    birthdate: 1829
+    deathdate: 1916
+    gutenberg_agent_id: '55945'
+    url: http://www.gutenberg.org/2009/agents/55945
+description: ''
+gutenberg_issued: '2025-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75017'
+language: en
+pgterms:marc905: 20240521052922lamb
+pgterms:marc906: '1883'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bR. T. S., $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Look on the sunny side : $b and other sketches'
+url: http://www.gutenberg.org/ebooks/75017
