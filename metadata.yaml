@@ -1,5 +1,8 @@
 _repo: Look-on-the-sunny-side-b-and-other-sketches_75017
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lamb, Ruth
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '55945'
     url: http://www.gutenberg.org/2009/agents/55945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75017#Look-on-the-sunny-side-b-and-other-sketches
 gutenberg_issued: '2025-01-01'
 gutenberg_type: Text
 identifiers:
